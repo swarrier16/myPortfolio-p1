@@ -7,8 +7,8 @@
  **************************************
  */
 
-$to = 'YOUR_EMAIL_ADDRESS';
-$siteName = "YOUR_SITE_NAME";
+$to = 'ssw7@njit.edu';
+$siteName = "portfolio";
 
 /*
  *************************************************************
