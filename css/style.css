@@ -9,7 +9,7 @@
  * This theme under "Attribution-NonCommercial CC BY-NC". You can't remove footer credit link.
  */
 body {
-  font-family: "Open Sans";
+  font-family: "Montserrat";
   color: #808080;
   font-weight: 400;
   font-size: 14px;
@@ -41,6 +41,7 @@ h6 {
   font-weight: 400;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 .form-control {
   border-radius: 2px !important;
@@ -1394,7 +1395,7 @@ ul.styled-list.list-star li:before {
   border-radius: 10px;
 }
 .widget ul li .recent-post .post-title {
-  font-family: "Open Sans";
+  font-family: "Montserrat";
   font-weight: 600;
   letter-spacing: 0;
   font-size: 15px;
